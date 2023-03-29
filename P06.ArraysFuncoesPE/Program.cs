@@ -15,8 +15,6 @@ namespace P06.ArraysFuncoesPE
 
           #endregion
 
-          #region Método Principal;
-
           static void Main(string[] args)
           {
                do
@@ -55,8 +53,6 @@ namespace P06.ArraysFuncoesPE
 
                } while (true);
           }
-
-          #endregion
 
           #region Funções;
 
